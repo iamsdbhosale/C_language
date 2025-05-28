@@ -5,3 +5,22 @@ Item                Qty       Price     Total
 -------------------------------
 Grand Total: INR 120
 ===============================
+
+----- ORDER -----
+Item                Qty       Price     Total
+    -------------------------------
+Grand Total: INR 0
+===============================
+
+----- ORDER -----
+Item                Qty       Price     Total
+    -------------------------------
+Grand Total: INR 0
+===============================
+
+----- ORDER -----
+Item                Qty       Price     Total
+    Margherita Pizza    4         250       1000      
+-------------------------------
+Grand Total: INR 1000
+===============================
