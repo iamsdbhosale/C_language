@@ -1,0 +1,7 @@
+
+----- ORDER -----
+Item                Qty       Price     Total
+    Chole Bhature       1         120       120       
+-------------------------------
+Grand Total: INR 120
+===============================
